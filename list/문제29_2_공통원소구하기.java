@@ -1,4 +1,4 @@
-package section1;
+package list;
 
 import java.util.ArrayList;
 import java.util.Arrays;

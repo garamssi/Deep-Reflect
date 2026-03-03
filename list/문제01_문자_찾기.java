@@ -1,10 +1,8 @@
-package section1;
+package list;
 
 import java.util.Scanner;
 
 import static java.lang.Character.*;
-
-import java.util.Scanner;
 
 public class 문제01_문자_찾기 {
 	public static void main(String[] args){

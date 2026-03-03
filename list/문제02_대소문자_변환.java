@@ -1,6 +1,4 @@
-package section1;
-
-import static java.lang.Character.*;
+package list;
 
 import java.util.Scanner;
 

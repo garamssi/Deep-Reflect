@@ -1,6 +1,4 @@
-package section1;
-
-import java.util.Scanner;
+package list;
 
 public class test{
 	void main() {
